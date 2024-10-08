@@ -30,7 +30,7 @@ go build -ldflags="-w -s" -o demo1 hello.go
 go tool dist list
 ```
 - output 
-
+```
 aix/ppc64
 android/386
 android/amd64
@@ -79,7 +79,7 @@ windows/386
 windows/amd64
 windows/arm
 windows/arm64
-
+```
 - To cross compile build 
 
 ```
