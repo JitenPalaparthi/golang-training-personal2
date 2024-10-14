@@ -1,5 +1,5 @@
 package main
 
-func Greet() {
+func greet() {
 	println("Hello there!")
 }
