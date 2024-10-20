@@ -85,3 +85,14 @@ windows/arm64
 ```
 GOOS=windows GOARCH=amd64 go build -o hello.exe hello.go
 ```
+
+- Go build with details 
+
+```
+go build -x -v
+```
+
+# for Link issue
+```
+sudo GODEBUG=installgoroot=all go install std
+```
