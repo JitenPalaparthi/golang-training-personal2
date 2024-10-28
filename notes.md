@@ -1,3 +1,7 @@
 ## keywords in go
 
-- package, import, func, var, const 
+- case,const, default,else, fallthrough, func, if,import, package, switch,var (11 out of 25)
+
+## built-in functions
+
+- print, println (2 out of 18)
